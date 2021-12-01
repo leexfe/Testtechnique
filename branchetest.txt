@@ -1,1 +1,5 @@
-c'est la deuxième branche créée
+c'est la deuxième branche créée que l'on nomme: touch branchetest.txt 
+puis,
+ on indexe: git add branchetest.txt
+On commente l'action avec : git commit -m "Ajout du fichier branchetest.txt"
+on push le commit du repo vers le depot distant github: git push -u origin main
