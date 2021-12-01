@@ -1,1 +1,2 @@
 hello it's me mario!
+Je rajoute du texte et j'enregistre l'ensemble du fichier en lui indiquant le fichier.txt comme argument
